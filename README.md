@@ -1,5 +1,5 @@
 # BusBookingUI-Android
-Check out the new style for App Design aims for Bus Booking Service...😉😀😁😎
+Check out the new style for App Design aim for Bus Booking Service...😉😀😁😎
 
 ## Screenshots
 
